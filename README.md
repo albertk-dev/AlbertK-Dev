@@ -1,9 +1,44 @@
-- 👋 Hi, I’m @AlbertK-Dev, a developer with a strong interest in the MERN stack (MongoDB, Express.js, React, Node.js).
-- 🌱 I’m currently working on improving my skills in JavaScript and TypeScript, while also exploring Python for scripting and web scraping, and Java for object-oriented programming.
-- 💻 I have a good understanding of OOP and design patterns, and I’m always open to learning more and embracing new challenges.
-- 💡 I’m happy to collaborate on projects involving JavaScript, TypeScript, Java, and Python.
-- 📫 Don’t hesitate to reach out if you’d like to work together!
-<!---
-AlbertK-Dev/AlbertK-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Albert KAMENI ("Le debogueur")
+### Full-Stack Software Engineer & Telecom Specialist
+
+Ingénieur logiciel basé au Cameroun, spécialisé dans la conception d'architectures résilientes, de systèmes distribués et de plateformes web/mobiles haute performance taillées pour les contraintes réelles du terrain.
+
+- 💼 **Actuellement** : Software Engineer chez **Sprint Pay Technology** (Java / Spring Boot, Clean Architecture, Systèmes d'archivage).
+- 🚀 **Créateur de produits en production** :
+  - **[Edunova](https://edunova.cm)** : Infrastructure scolaire B2B offline-first (NestJS GraphQL, Next.js, IndexedDB, PWA). [Démo active](https://demo.edunova.cm).
+  - **[Tchop 237](https://tchop237.cm)** : Plateforme culinaire de 894 recettes du terroir, recherche instantanée <1ms (Remix SSR, Fastify, SQLite + PostgreSQL, Fintech CamerPay/Stripe).
+- ♟️ **Hors du code** : Joueur d'échecs sur Chess.com (`nofobi`) et adepte de course d'endurance.
+
+---
+
+### 🛠️ Stack Technique & Expertise
+
+| Domaine | Technologies & Outils |
+| :--- | :--- |
+| **Backend & Systèmes** | Java (Spring Boot), TypeScript (NestJS, Fastify, Express, Node.js), Architecture Hexagonale, Microservices, REST & GraphQL |
+| **Frontend & Mobile** | React, Remix (SSR), Next.js, Angular, React Native, PWA (Offline-First) |
+| **Bases de Données** | PostgreSQL (Prisma), SQLite (in-memory), MongoDB, SQL Server |
+| **DevOps & Cloud** | Docker, Git, CI/CD, Linux, S3, BullMQ / Redis |
+| **Télécoms & Réseaux** | VoIP/WebRTC (OpenTok), Protocoles réseau, Cartographie & SIG (Leaflet, Geoserver) |
+
+---
+
+### 📌 Architecture & Projets Phares
+
+#### 1. [Edunova — B2B EdTech Infrastructure](https://edunova.cm)
+> Système multi-tenant pour établissements scolaires avec résilience hors-connexion.
+- **Défis résolus** : Moteur de synchronisation silencieuse (*Ghost Sync*), isolation des données sur appareils partagés dans les fratries, compilation pédagogique par IA.
+- **Stack** : `NestJS` `GraphQL` `Next.js` `IndexedDB` `Docker` `Prisma`
+
+#### 2. [Tchop 237 — FoodTech & Nutrition Platform](https://tchop237.cm)
+> Encyclopédie culinaire nationale et nutrition infantile (0-10 ans).
+- **Défis résolus** : Recherche prédictive instantanée (<1ms) sans surcoût serveur, passerelle de paiement unifiée (Orange Money, MTN MoMo, Stripe).
+- **Stack** : `Remix` `Fastify` `Dual-DB (SQLite + Postgres)` `PWA` `CamerPay`
+
+---
+
+### 📬 Me contacter
+
+- **LinkedIn** : [linkedin.com/in/albertk-linked](https://www.linkedin.com/in/albertk-linked)
+- **Email** : albertk.explorer@gmail.com
+- **WhatsApp** : [+237 6 95 85 27 12](https://wa.me/237695852712)
